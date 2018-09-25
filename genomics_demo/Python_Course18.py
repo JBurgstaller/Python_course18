@@ -24,6 +24,7 @@ class DNA:
         return DNA(''.join(complimentary_nucleotides[nt.upper()] for nt in self.sequence))
 
 
+
 #when importing this, this part will not
 
 #if __name__ == '__main__':

@@ -1,5 +1,6 @@
-from rna import RNA
 import pytest
+
+from genomics_demo.rna import RNA
 
 
 def test_bad_sequence_raises_error():

@@ -1,5 +1,6 @@
-from Python_Course18 import DNA
 import pytest
+
+from genomics_demo.Python_Course18 import DNA
 
 
 def test_bad_sequence_raises_error():
