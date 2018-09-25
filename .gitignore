@@ -8,3 +8,6 @@ __pycache__
 
 
 #git status shows which files are ignored
+
+
+#git branch -d name (to delete a branch)
