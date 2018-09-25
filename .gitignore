@@ -4,3 +4,8 @@ dist
 genomics_demo.egg-info/
 .idea
 __pycache__
+
+
+
+
+#git status shows which files are ignored
